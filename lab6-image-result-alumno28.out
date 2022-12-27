@@ -1,0 +1,8 @@
+[0m[0KREPOSITORY               TAG       IMAGE ID       CREATED          SIZE[0K
+almuponce9/lab6-docker   v1        9a944da9a3bd   52 seconds ago   1.29GB[0K
+python                   3.7       1f1a7b570f9e   42 hours ago     907MB[0K
+docker/getting-started   latest    992d2ddee3ba   8 days ago       47MB[0K
+ubuntu                   latest    6b7dfa7e8fdb   2 weeks ago      77.8MB[0K
+mysql                    latest    7484689f290f   2 weeks ago      538MB[0K
+hello-world              latest    feb5d9fea6a5   15 months ago    13.3kB[0K
+[0K
